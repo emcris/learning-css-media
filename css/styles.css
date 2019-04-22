@@ -1,0 +1,32 @@
+.container{
+    display: flex;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+}
+
+.guide{
+    height: 400px;
+    width: 33.3%;
+    border-radius: 10px;
+    border: 1px solid slategrey;
+    padding: 20px 15px;
+    margin: 10px;
+}
+
+img{
+    position: relative;
+    width: 100%;
+    /* bottom: 20px; */
+}
+
+.sunset{
+    color: #B94355;
+}
+
+.cat{
+    color: #FF9261;
+}
+
+.sky{
+    color: #87D4FF;
+}
